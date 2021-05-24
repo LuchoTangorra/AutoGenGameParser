@@ -1,0 +1,4 @@
+allennlp==2.4.0
+contractions==0.0.49
+neuralcoref==4.0
+spacy==3.0.6
