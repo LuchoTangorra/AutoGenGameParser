@@ -1,5 +1,5 @@
 import spacy
-import neuralcoref
+import neuralcoref_package
 import contractions
 from spacy import displacy
 import re

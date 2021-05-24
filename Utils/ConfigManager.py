@@ -1,5 +1,5 @@
 import spacy
-import neuralcoref
+import neuralcoref_package
 from allennlp.predictors.predictor import Predictor
 
 from Parsers.ActionParser import *
